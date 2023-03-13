@@ -8,6 +8,8 @@ Une fois connecté à google colab, importez le fichier .ipnyb présent dans le 
 
 ##### Simple convolution 1D
 
+Dans la question 1.3. Il faut copier a et f dans d_a et d_filter et non pas b dans d_b.
+
 La convolution est une opération permettant d'alterer une image en faisant glisser un filtre sur cette image. Cela peut permettre d'ajouter du flou sur l'image, de detecter le contours de certains objets d'un image et bien d'autres.
 
 ### Etape 1 de la convolution :
