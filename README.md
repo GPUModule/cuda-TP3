@@ -22,7 +22,7 @@ La convolution est une opération permettant d'alterer une image en faisant glis
 ### Etape 4 de la convolution :
 ![Convolution1D étapte 4](conv4.png)
 
-Fonction à rajouter dans utils.h :
+Fonction à rajouter dans utils.h pour le timer :
 
 ```
 struct event_pair
