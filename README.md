@@ -10,11 +10,15 @@ Une fois connecté à google colab, importez le fichier .ipnyb présent dans le 
 
 La convolution est une opération permettant d'alterer une image en faisant glisser un filtre sur cette image. Cela peut permettre d'ajouter du flou sur l'image, de detecter le contours de certains objets d'un image et bien d'autres.
 
+### Etape 1 de la convolution :
 ![Convolution1D étapte 1](conv1.png)
 
+### Etape 2 de la convolution :
 ![Convolution1D étapte 2](conv2.png)
 
+### Etape 3 de la convolution :
 ![Convolution1D étapte 3](conv3.png)
 
+### Etape 4 de la convolution :
 ![Convolution1D étapte 4](conv4.png)
 
